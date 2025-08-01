@@ -1,3 +1,8 @@
+# Myprojectdemo
+This is my first  Public repository
+<br>
+Author Monika Sarkar
+
 # GitHub-Repository-Demo
 Learning How to use GitHub
 <br>
